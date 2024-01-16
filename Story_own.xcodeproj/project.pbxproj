@@ -14,6 +14,7 @@
 		EB8EFEBA2B566DE100014702 /* Story_ownTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB8EFEB92B566DE100014702 /* Story_ownTests.swift */; };
 		EB8EFEC42B566DE100014702 /* Story_ownUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB8EFEC32B566DE100014702 /* Story_ownUITests.swift */; };
 		EB8EFEC62B566DE100014702 /* Story_ownUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB8EFEC52B566DE100014702 /* Story_ownUITestsLaunchTests.swift */; };
+		EB8EFED52B566F7200014702 /* MyStory.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB8EFED42B566F7200014702 /* MyStory.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		EB8EFEBF2B566DE100014702 /* Story_ownUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Story_ownUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB8EFEC32B566DE100014702 /* Story_ownUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Story_ownUITests.swift; sourceTree = "<group>"; };
 		EB8EFEC52B566DE100014702 /* Story_ownUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Story_ownUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EB8EFED42B566F7200014702 /* MyStory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStory.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				EB8EFEA82B566DDF00014702 /* Story_ownApp.swift */,
 				EB8EFEAA2B566DDF00014702 /* ContentView.swift */,
+				EB8EFED42B566F7200014702 /* MyStory.swift */,
 				EB8EFEAC2B566DE100014702 /* Assets.xcassets */,
 				EB8EFEAE2B566DE100014702 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				EB8EFEAB2B566DDF00014702 /* ContentView.swift in Sources */,
 				EB8EFEA92B566DDF00014702 /* Story_ownApp.swift in Sources */,
+				EB8EFED52B566F7200014702 /* MyStory.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
